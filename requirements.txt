@@ -1,0 +1,7 @@
+requests
+streamlit
+vanna
+vanna[chromadb,openai,postgres]
+pandas
+langchain_openai
+langchain_core
